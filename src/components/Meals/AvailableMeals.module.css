@@ -9,6 +9,14 @@
   margin: 0;
   padding: 0;
 }
+.meals-loading{
+  text-align:center;
+  color:white;
+}
+.invalid-data{
+  text-align:center;
+  color: rgb(235, 52, 52);;
+}
 @keyframes meals-appear {
   from {
     opacity: 0;
